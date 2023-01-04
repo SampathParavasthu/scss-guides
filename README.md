@@ -2,6 +2,7 @@
 List of all scss guides - tips and tricks.
 
 Use [SassMeister](https://www.sassmeister.com/) - The live Sass Playground.
+[sass-lang](https://sass-lang.com/documentation/) - Official Sass doc site
 
 
 ## Table of Contents
